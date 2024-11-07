@@ -1,0 +1,149 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/Main.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/img/Magic_3_-removebg-preview.ico"
+  },
+  {
+   "optionDest": "name",
+   "value": "MAGIC"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/Arduino.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/Class.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/Commande_Boutton.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/Commande_Potentiometre.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/Encode.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/Key.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/Key_Encode.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/langages.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/Main.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/Pip.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/Redirect.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/Script_Save.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/setup.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/Test.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/TkVideoPlayer.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/Tools.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/video;video/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/setting;setting/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/script;script/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/img;img/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/bibit/OneDrive/Bureau/Prog-SIN/arduino;arduino/"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}

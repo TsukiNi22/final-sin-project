@@ -1,0 +1,17 @@
+{'Type':'Title','Name':'------------Clavier------------'}
+{'Type':'Title','Name':'------------Souris------------'}
+{'Type':'Button','Name':'Déplacer la souris vers _ de _ px', '_':['MenuClic', 'Text_Box'],'MenuClic':['la Gauche','la Droite','le Haut', 'le Bas'],'Parametre':['None','None'],'Attention':None}
+{'Type':'Button','Name':'Déplacer la souris _', '_':['MenuClic'],'MenuClic':['Horizontalement','Verticalement'],'Parametre':['None'],'Attention':None}
+{'Type':'Title','Name':'------------Navigateur------------'}
+{'Type':'Title','Name':'------------OS------------'}
+{'Type':'Button','Name':'Gérer le son','Attention':'This action\nwill change\nyour volume'}
+{'Type':'Title','Name':'------------Instruction------------'}
+{'Type':'Button','Name':'Inverser le potentiometre','Attention':None}
+
+{'Type':'Title','Name':'------------Test------------'}
+{'Type':'Button','Name':'Text _','_':['Text_Box'],'Parametre':['None'],'Attention':None}
+{'Type':'Button','Name':'Text _ _ _','_':['Text_Box','Text_Box','Text_Box'],'Parametre':['None','None','None'],'Attention':None}
+{'Type':'Button','Name':'List _','_':['Menu1'],'Menu1':['t1','t2','t3'],'Parametre':['None'],'Attention':None}
+{'Type':'Button','Name':'List  _ _ _','_':['Menu1','Menu1','Menu1'],'Menu1':['t1','t2','t3'],'Parametre':['None','None','None'],'Attention':None}
+{'Type':'Button','Name':'Boutton _','_':['Boutton'],'Parametre':['None'],'Attention':None}
+{'Type':'Button','Name':'Boutton _ _ _','_':['Boutton','Boutton','Boutton'],'Parametre':['None','None','None'],'Attention':None}

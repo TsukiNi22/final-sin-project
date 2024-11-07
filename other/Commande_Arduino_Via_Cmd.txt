@@ -1,0 +1,6 @@
+cd /
+cd C:\Users\bibit\OneDrive\Bureau\Prog-SIN\Arduino
+
+arduino-cli compile --fqbn arduino:avr:mega:cpu=atmega2560 C:\Users\bibit\OneDrive\Bureau\Prog-SIN\Arduino\Arduino.ino
+
+arduino-cli upload -p COM3 --fqbn arduino:avr:mega:cpu=atmega2560 C:\Users\bibit\OneDrive\Bureau\Prog-SIN\Arduino\Arduino.ino

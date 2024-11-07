@@ -1,0 +1,2 @@
+Boutton
+{'Type': 'Button', 'Name': 'Ouvrir la page web _', '_': ['Text_Box'], 'Parametre': ['https://customtkinter.tomschimansky.com/documentation/'], 'Attention': None}

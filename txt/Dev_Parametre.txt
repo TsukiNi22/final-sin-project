@@ -1,0 +1,1 @@
+{'Pin_Loading':True,'Fast_Open':None,'Boutton_Factice':[],'Ratio_Force':1.0}
